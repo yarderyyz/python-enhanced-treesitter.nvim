@@ -15,7 +15,7 @@ Install the plugin with your preferred package manager:
 use("lee-gauthier/python-enhanced-treesitter.nvim")
 ```
 
-You should have [Go](https://github.com/tree-sitter/tree-sitter-go) and
+You should have [Python](https://github.com/tree-sitter/tree-sitter-python) and
 [SQL syntax](https://github.com/derekstride/tree-sitter-sql) treesitter syntax installed.
 
 You can do that using `TSInstall` or with [packer](https://github.com/wbthomason/packer.nvim):
