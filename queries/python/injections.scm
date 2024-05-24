@@ -4,4 +4,4 @@
   (argument_list
     (string
       (string_content) @injection.content
-      (#set! injection.language "sqlite"))))
+      (#set! injection.language "sql"))))
